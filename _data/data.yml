@@ -43,10 +43,10 @@ sidebar:
         - item: Cooking
           link:
 
-#career-profile:
-#    title: Career
-#    summary: |
-#      Brief career summary, goals and motivations
+career-profile:
+    title: Career
+    summary: |
+      Brief career summary, goals and motivations
 
 experiences:
     title: Experiences
